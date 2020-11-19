@@ -1,0 +1,6 @@
+/*----------------------------------------*/
+/* Header Area
+/*----------------------------------------*/
+.docs-menu{
+  @include nav($color: rgba($white, 0.7), $py: 1rem, $px: 1rem, $h-color: $white);
+}
